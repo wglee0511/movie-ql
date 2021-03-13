@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wglee0511/movie-ql/issues"
   },
-  "homepage": "https://github.com/wglee0511/movie-ql#readme"
+  "homepage": "https://github.com/wglee0511/movie-ql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
