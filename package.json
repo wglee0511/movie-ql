@@ -1,0 +1,22 @@
+{
+  "name": "movie-ql",
+  "version": "1.0.0",
+  "description": "movie API with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wglee0511/movie-ql.git"
+  },
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "wglee0511 / <ranazang@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wglee0511/movie-ql/issues"
+  },
+  "homepage": "https://github.com/wglee0511/movie-ql#readme"
+}
