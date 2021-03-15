@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/wglee0511/movie-ql#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3",
     "nodemon": "^2.0.7"
   },
